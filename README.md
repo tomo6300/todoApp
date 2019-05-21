@@ -7,7 +7,7 @@
 
 1.GitHubからcloneをダウンロード
 
-2.Node.js(https://nodejs.org/ja/)の公式サイトに行き、Node.jsをダウンロード＆インストール
+2.Node.js( https://nodejs.org/ja/ )の公式サイトに行き、Node.jsをダウンロード＆インストール
 
 3.create-react-appコマンドが使えるようにする
 ```bush
