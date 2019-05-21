@@ -7,7 +7,7 @@ class Form extends Component {
       <div className="form">
         <form onSubmit={this.props.onSubmit}>
           <input name="title" type="text" placeholder="タイトル ※必須" /><br/>
-          <textarea name="detail" placeholder="説明を入力"></textarea><br/>
+          <textarea name="detail" placeholder="詳細"></textarea><br/>
         
          <label>重要</label>
         　<input　name="importance" type="checkbox"  /> <br/>
